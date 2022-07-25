@@ -68,3 +68,8 @@ Esto es un texto que será dividido.
 
 ---
 Esto es otro texto dividido.
+
+# Saltos de línea (Linebreaks)
+Esto es nuestro primer parrafo.
+
+Esto es nuestro segundo parrafo.
