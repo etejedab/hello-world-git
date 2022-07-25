@@ -50,3 +50,21 @@ Código en Javascript
 ```JavaScript
 var inicio = $("#input").val();
 ```
+
+# Tablas
+| Nombre | Apellido | Documento |
+| ------ | -------- | --------- |
+| Juan | Perez | INE
+
+# Citas
+Esto es un texto referente a una cita que pondremos debajo:
+> Esto es una cita.
+
+Esto es otro texto que no se relaciona con la cita anterior:
+> Esto es otra cita.
+
+# Líneas divisoras
+Esto es un texto que será dividido.
+
+---
+Esto es otro texto dividido.
