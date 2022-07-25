@@ -31,3 +31,22 @@ Underline 2
 # Links
 - [Esto es un link en Markdown](http://google.com)
 - [Esto es un link al index](index.html)
+
+# Imagenes
+![Logo Github](https://cdn-icons-png.flaticon.com/512/25/25231.png)
+
+# Code Snipets
+```JSON
+{
+    {
+        "title":"Hola",
+        "body":"Hola body"
+    }
+}
+
+```
+
+Código en Javascript
+```JavaScript
+var inicio = $("#input").val();
+```
